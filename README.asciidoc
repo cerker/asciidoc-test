@@ -1,0 +1,18 @@
+version, optional date
+:Author:    AlternativeWayToSetOptional Author Name
+:Email:     <AlternativeWayToSetOptional@author.email>
+:Date: version, optional date
+:Authversion, optional date
+:Author:    AlternativeWayToSetOptional Author Name
+:Email:     <AlternativeWayToSetOptional@author.email>
+:Date:      AlternativeWayToSetOptional date
+:Revision:  AlternativeWayToSetOptional versiondddddnmnsdmor:    AlternativeWayToSetOptional Author Name
+:Email:     <AlternativeWayToSetOptional@author.email>
+:Date:      AlternativeWayToSetOptional date
+:Revision:  AlternativeWayToSetOptional versionversion, optional date
+:Author:    AlternativeWayToSetOptional Author Name
+:Email:     <AlternativeWayToSetOptional@author.email>
+:Date:      AlternativeWayToSetOptional date
+:Revision:  AlternativeWayToSetOptional version     AlternativeWayToSetOptional date
+:Revision:  AlternativeWayToSetOptional version
+=============
